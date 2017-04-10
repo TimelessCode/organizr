@@ -1,0 +1,22 @@
+{
+  "name": "organizr",
+  "version": "0.0.0",
+  "description": "a cool website to organize your thoughts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git:https://github.com/TimelessCode/organizr"
+  },
+  "keywords": [
+    "webapp",
+    "node"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
